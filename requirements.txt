@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+asyncpg
+playwright
+requests
+openpyxl
+pydantic
+reportlab
